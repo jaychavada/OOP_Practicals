@@ -1,3 +1,5 @@
+package OOP_PRACTICALS;
+
 class I2 {
 
     public String getDescription() {
